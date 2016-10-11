@@ -1,0 +1,1518 @@
+html body {
+  background-color: #ffffff;
+}
+body.diyBgActive .diyw .diyweb {
+  background-image: none !important;
+  background-color: transparent !important;
+}
+.diyw .diyweb {
+  background-color: transparent !important;
+}
+.diyw .diyweb,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0,
+.diyw .diyfeCA .diyfeCA .diyfeCA0,
+.diyw .diyfeCA .diyfeCA0,
+.diyw .diyfeCA0 {
+  background-color: #ffffff;
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyweb h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 h1,
+.diyw .diyfeCA .diyfeCA0 h1,
+.diyw .diyfeCA0 h1 {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyweb h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 h2,
+.diyw .diyfeCA .diyfeCA0 h2,
+.diyw .diyfeCA0 h2 {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyweb p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 p,
+.diyw .diyfeCA .diyfeCA0 p,
+.diyw .diyfeCA0 p {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyweb a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 a,
+.diyw .diyfeCA .diyfeCA0 a,
+.diyw .diyfeCA0 a {
+  color: #474747;
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyweb .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA0 .diyfeLinkAsButton,
+.diyw .diyfeCA0 .diyfeLinkAsButton {
+  background: #474747;
+  color: #ededed;
+  border: solid 1px #474747;
+}
+.diyw .diyweb .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA0 .mainNav1 a,
+.diyw .diyfeCA0 .mainNav1 a {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyweb .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA0 .mainNav2 a,
+.diyw .diyfeCA0 .mainNav2 a {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyweb .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA0 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA0 .hr,
+.diyw .diyfeCA .diyfeCA0 .hr,
+.diyw .diyfeCA0 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1,
+.diyw .diyfeCA .diyfeCA .diyfeCA1,
+.diyw .diyfeCA .diyfeCA1,
+.diyw .diyfeCA1 {
+  background-color: #ffffff;
+  color: #757575;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 h1,
+.diyw .diyfeCA .diyfeCA1 h1,
+.diyw .diyfeCA1 h1 {
+  color: #535353;
+  font-family: Georgia, serif;
+  font-style: normnal;
+  font-size: 48px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 h2,
+.diyw .diyfeCA .diyfeCA1 h2,
+.diyw .diyfeCA1 h2 {
+  color: #535353;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 25.6px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 p,
+.diyw .diyfeCA .diyfeCA1 p,
+.diyw .diyfeCA1 p {
+  color: #757575;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 a,
+.diyw .diyfeCA .diyfeCA1 a,
+.diyw .diyfeCA1 a {
+  color: #a4ab95;
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA1 .diyfeLinkAsButton,
+.diyw .diyfeCA1 .diyfeLinkAsButton {
+  background: #a4ab95;
+  color: #10110f;
+  border: solid 1px #a4ab95;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA1 .mainNav1 a,
+.diyw .diyfeCA1 .mainNav1 a {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA1 .mainNav2 a,
+.diyw .diyfeCA1 .mainNav2 a {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA1 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA1 .hr,
+.diyw .diyfeCA .diyfeCA1 .hr,
+.diyw .diyfeCA1 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2,
+.diyw .diyfeCA .diyfeCA .diyfeCA2,
+.diyw .diyfeCA .diyfeCA2,
+.diyw .diyfeCA2 {
+  background-color: #a4ab95;
+  color: #10110f;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 h1,
+.diyw .diyfeCA .diyfeCA2 h1,
+.diyw .diyfeCA2 h1 {
+  color: #10110f;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 h2,
+.diyw .diyfeCA .diyfeCA2 h2,
+.diyw .diyfeCA2 h2 {
+  color: #10110f;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 p,
+.diyw .diyfeCA .diyfeCA2 p,
+.diyw .diyfeCA2 p {
+  color: #10110f;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 a,
+.diyw .diyfeCA .diyfeCA2 a,
+.diyw .diyfeCA2 a {
+  color: #10110f;
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA2 .diyfeLinkAsButton,
+.diyw .diyfeCA2 .diyfeLinkAsButton {
+  background: #10110f;
+  color: #dfdfde;
+  border: solid 1px #10110f;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA2 .mainNav1 a,
+.diyw .diyfeCA2 .mainNav1 a {
+  color: #535353;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA2 .mainNav2 a,
+.diyw .diyfeCA2 .mainNav2 a {
+  color: #10110f;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA2 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA2 .hr,
+.diyw .diyfeCA .diyfeCA2 .hr,
+.diyw .diyfeCA2 .hr {
+  border-color: #5f6551;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3,
+.diyw .diyfeCA .diyfeCA .diyfeCA3,
+.diyw .diyfeCA .diyfeCA3,
+.diyw .diyfeCA3 {
+  background-color: #ffffff;
+  color: #a3a3a3;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 h1,
+.diyw .diyfeCA .diyfeCA3 h1,
+.diyw .diyfeCA3 h1 {
+  color: #535353;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 28px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 h2,
+.diyw .diyfeCA .diyfeCA3 h2,
+.diyw .diyfeCA3 h2 {
+  color: #535353;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 p,
+.diyw .diyfeCA .diyfeCA3 p,
+.diyw .diyfeCA3 p {
+  color: #a3a3a3;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 a,
+.diyw .diyfeCA .diyfeCA3 a,
+.diyw .diyfeCA3 a {
+  color: #a4ab95;
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA3 .diyfeLinkAsButton,
+.diyw .diyfeCA3 .diyfeLinkAsButton {
+  background: #a4ab95;
+  color: #10110f;
+  border: solid 1px #a4ab95;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA3 .mainNav1 a,
+.diyw .diyfeCA3 .mainNav1 a {
+  color: #474747;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA3 .mainNav2 a,
+.diyw .diyfeCA3 .mainNav2 a {
+  color: #8c8c8c;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA3 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA3 .hr,
+.diyw .diyfeCA .diyfeCA3 .hr,
+.diyw .diyfeCA3 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4,
+.diyw .diyfeCA .diyfeCA .diyfeCA4,
+.diyw .diyfeCA .diyfeCA4,
+.diyw .diyfeCA4 {
+  background-color: #cccccc;
+  color: #424242;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 h1,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 h1,
+.diyw .diyfeCA .diyfeCA4 h1,
+.diyw .diyfeCA4 h1 {
+  color: #141414;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 h2,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 h2,
+.diyw .diyfeCA .diyfeCA4 h2,
+.diyw .diyfeCA4 h2 {
+  color: #141414;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 p,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 p,
+.diyw .diyfeCA .diyfeCA4 p,
+.diyw .diyfeCA4 p {
+  color: #424242;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 a,
+.diyw .diyfeCA .diyfeCA4 a,
+.diyw .diyfeCA4 a {
+  color: #424242;
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 .diyfeLinkAsButton,
+.diyw .diyfeCA .diyfeCA4 .diyfeLinkAsButton,
+.diyw .diyfeCA4 .diyfeLinkAsButton {
+  background: #424242;
+  color: #ececec;
+  border: solid 1px #424242;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 .mainNav1 a,
+.diyw .diyfeCA .diyfeCA4 .mainNav1 a,
+.diyw .diyfeCA4 .mainNav1 a {
+  color: #141414;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 .mainNav2 a,
+.diyw .diyfeCA .diyfeCA4 .mainNav2 a,
+.diyw .diyfeCA4 .mainNav2 a {
+  color: #141414;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA .diyfeCA4 .hr,
+.diyw .diyfeCA .diyfeCA .diyfeCA4 .hr,
+.diyw .diyfeCA .diyfeCA4 .hr,
+.diyw .diyfeCA4 .hr {
+  border-color: #878787;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyweb div#contentfooter {
+  font-size: inherit;
+  font-weight: inherit;
+}
+.diyw #website-logo a {
+  text-decoration: none !important;
+}
+.diyw .diyfeCA0 #website-logo p.website-logo-text,
+.diyw .diyfeCA0 #website-logo p.website-logo-text a {
+  color: #474747 !important;
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+}
+.diyw .diyfeCA1 #website-logo p.website-logo-text,
+.diyw .diyfeCA1 #website-logo p.website-logo-text a {
+  color: #757575 !important;
+  font-family: Georgia, serif;
+}
+.diyw .diyfeCA2 #website-logo p.website-logo-text,
+.diyw .diyfeCA2 #website-logo p.website-logo-text a {
+  color: #535353 !important;
+  font-family: Georgia, serif;
+}
+.diyw .diyfeCA3 #website-logo p.website-logo-text,
+.diyw .diyfeCA3 #website-logo p.website-logo-text a {
+  color: #a3a3a3 !important;
+  font-family: Georgia, serif;
+}
+.diyw .diyfeCA4 #website-logo p.website-logo-text,
+.diyw .diyfeCA4 #website-logo p.website-logo-text a {
+  color: #424242 !important;
+  font-family: Georgia, serif;
+}
+.diyw .diyfeLinkAsButton {
+  border: 1px solid;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 8px 15px;
+  text-decoration: none !important;
+}
+.diyw .diyfeLinkAsButton:hover {
+  box-shadow: 0 0 0 2px inset;
+}
+.diyw .imageSubtitle {
+  min-width: 30px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0,
+.diyw .diyfeArea .diyfeArea .diyfeColor0,
+.diyw .diyfeArea .diyfeColor0,
+.diyw .diyfeColor0 {
+  background-color: #ffffff;
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 h1,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 h1,
+.diyw .diyfeArea .diyfeColor0 h1,
+.diyw .diyfeColor0 h1 {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 h2,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 h2,
+.diyw .diyfeArea .diyfeColor0 h2,
+.diyw .diyfeColor0 h2 {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 p,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 p,
+.diyw .diyfeArea .diyfeColor0 p,
+.diyw .diyfeColor0 p {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 a,
+.diyw .diyfeArea .diyfeColor0 a,
+.diyw .diyfeColor0 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeColor0 .diyfeLinkAsButton,
+.diyw .diyfeColor0 .diyfeLinkAsButton {
+  background: #474747;
+  color: #ededed;
+  border: solid 1px #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 .mainNav1 a,
+.diyw .diyfeArea .diyfeColor0 .mainNav1 a,
+.diyw .diyfeColor0 .mainNav1 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 .mainNav2 a,
+.diyw .diyfeArea .diyfeColor0 .mainNav2 a,
+.diyw .diyfeColor0 .mainNav2 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor0 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeColor0 .hr,
+.diyw .diyfeArea .diyfeColor0 .hr,
+.diyw .diyfeColor0 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1,
+.diyw .diyfeArea .diyfeArea .diyfeColor1,
+.diyw .diyfeArea .diyfeColor1,
+.diyw .diyfeColor1 {
+  background-color: #ffffff;
+  color: #757575;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 h1,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 h1,
+.diyw .diyfeArea .diyfeColor1 h1,
+.diyw .diyfeColor1 h1 {
+  color: #535353;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 h2,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 h2,
+.diyw .diyfeArea .diyfeColor1 h2,
+.diyw .diyfeColor1 h2 {
+  color: #535353;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 p,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 p,
+.diyw .diyfeArea .diyfeColor1 p,
+.diyw .diyfeColor1 p {
+  color: #757575;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 a,
+.diyw .diyfeArea .diyfeColor1 a,
+.diyw .diyfeColor1 a {
+  color: #a4ab95;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeColor1 .diyfeLinkAsButton,
+.diyw .diyfeColor1 .diyfeLinkAsButton {
+  background: #a4ab95;
+  color: #10110f;
+  border: solid 1px #a4ab95;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 .mainNav1 a,
+.diyw .diyfeArea .diyfeColor1 .mainNav1 a,
+.diyw .diyfeColor1 .mainNav1 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 .mainNav2 a,
+.diyw .diyfeArea .diyfeColor1 .mainNav2 a,
+.diyw .diyfeColor1 .mainNav2 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor1 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeColor1 .hr,
+.diyw .diyfeArea .diyfeColor1 .hr,
+.diyw .diyfeColor1 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2,
+.diyw .diyfeArea .diyfeArea .diyfeColor2,
+.diyw .diyfeArea .diyfeColor2,
+.diyw .diyfeColor2 {
+  background-color: #a4ab95;
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 h1,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 h1,
+.diyw .diyfeArea .diyfeColor2 h1,
+.diyw .diyfeColor2 h1 {
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 h2,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 h2,
+.diyw .diyfeArea .diyfeColor2 h2,
+.diyw .diyfeColor2 h2 {
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 p,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 p,
+.diyw .diyfeArea .diyfeColor2 p,
+.diyw .diyfeColor2 p {
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 a,
+.diyw .diyfeArea .diyfeColor2 a,
+.diyw .diyfeColor2 a {
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeColor2 .diyfeLinkAsButton,
+.diyw .diyfeColor2 .diyfeLinkAsButton {
+  background: #10110f;
+  color: #dfdfde;
+  border: solid 1px #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 .mainNav1 a,
+.diyw .diyfeArea .diyfeColor2 .mainNav1 a,
+.diyw .diyfeColor2 .mainNav1 a {
+  color: #535353;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 .mainNav2 a,
+.diyw .diyfeArea .diyfeColor2 .mainNav2 a,
+.diyw .diyfeColor2 .mainNav2 a {
+  color: #10110f;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor2 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeColor2 .hr,
+.diyw .diyfeArea .diyfeColor2 .hr,
+.diyw .diyfeColor2 .hr {
+  border-color: #5f6551;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3,
+.diyw .diyfeArea .diyfeArea .diyfeColor3,
+.diyw .diyfeArea .diyfeColor3,
+.diyw .diyfeColor3 {
+  background-color: #ffffff;
+  color: #a3a3a3;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 h1,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 h1,
+.diyw .diyfeArea .diyfeColor3 h1,
+.diyw .diyfeColor3 h1 {
+  color: #535353;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 h2,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 h2,
+.diyw .diyfeArea .diyfeColor3 h2,
+.diyw .diyfeColor3 h2 {
+  color: #535353;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 p,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 p,
+.diyw .diyfeArea .diyfeColor3 p,
+.diyw .diyfeColor3 p {
+  color: #a3a3a3;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 a,
+.diyw .diyfeArea .diyfeColor3 a,
+.diyw .diyfeColor3 a {
+  color: #a4ab95;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeColor3 .diyfeLinkAsButton,
+.diyw .diyfeColor3 .diyfeLinkAsButton {
+  background: #a4ab95;
+  color: #10110f;
+  border: solid 1px #a4ab95;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 .mainNav1 a,
+.diyw .diyfeArea .diyfeColor3 .mainNav1 a,
+.diyw .diyfeColor3 .mainNav1 a {
+  color: #474747;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 .mainNav2 a,
+.diyw .diyfeArea .diyfeColor3 .mainNav2 a,
+.diyw .diyfeColor3 .mainNav2 a {
+  color: #8c8c8c;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor3 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeColor3 .hr,
+.diyw .diyfeArea .diyfeColor3 .hr,
+.diyw .diyfeColor3 .hr {
+  border-color: #bababa;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4,
+.diyw .diyfeArea .diyfeArea .diyfeColor4,
+.diyw .diyfeArea .diyfeColor4,
+.diyw .diyfeColor4 {
+  background-color: #cccccc;
+  color: #424242;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 h1,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 h1,
+.diyw .diyfeArea .diyfeColor4 h1,
+.diyw .diyfeColor4 h1 {
+  color: #141414;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 h2,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 h2,
+.diyw .diyfeArea .diyfeColor4 h2,
+.diyw .diyfeColor4 h2 {
+  color: #141414;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 p,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 p,
+.diyw .diyfeArea .diyfeColor4 p,
+.diyw .diyfeColor4 p {
+  color: #424242;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 a,
+.diyw .diyfeArea .diyfeColor4 a,
+.diyw .diyfeColor4 a {
+  color: #424242;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 .diyfeLinkAsButton,
+.diyw .diyfeArea .diyfeColor4 .diyfeLinkAsButton,
+.diyw .diyfeColor4 .diyfeLinkAsButton {
+  background: #424242;
+  color: #ececec;
+  border: solid 1px #424242;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 .mainNav1 a,
+.diyw .diyfeArea .diyfeColor4 .mainNav1 a,
+.diyw .diyfeColor4 .mainNav1 a {
+  color: #141414;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 .mainNav2 a,
+.diyw .diyfeArea .diyfeColor4 .mainNav2 a,
+.diyw .diyfeColor4 .mainNav2 a {
+  color: #141414;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeColor4 .hr,
+.diyw .diyfeArea .diyfeArea .diyfeColor4 .hr,
+.diyw .diyfeArea .diyfeColor4 .hr,
+.diyw .diyfeColor4 .hr {
+  border-color: #878787;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0,
+.diyw .diyfeArea .diyfeArea .diyfeFont0,
+.diyw .diyfeArea .diyfeFont0,
+.diyw .diyfeFont0 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 h1,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 h1,
+.diyw .diyfeArea .diyfeFont0 h1,
+.diyw .diyfeFont0 h1 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 h2,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 h2,
+.diyw .diyfeArea .diyfeFont0 h2,
+.diyw .diyfeFont0 h2 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 p,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 p,
+.diyw .diyfeArea .diyfeFont0 p,
+.diyw .diyfeFont0 p {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 a,
+.diyw .diyfeArea .diyfeFont0 a,
+.diyw .diyfeFont0 a {
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 .mainNav1 a,
+.diyw .diyfeArea .diyfeFont0 .mainNav1 a,
+.diyw .diyfeFont0 .mainNav1 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont0 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont0 .mainNav2 a,
+.diyw .diyfeArea .diyfeFont0 .mainNav2 a,
+.diyw .diyfeFont0 .mainNav2 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1,
+.diyw .diyfeArea .diyfeArea .diyfeFont1,
+.diyw .diyfeArea .diyfeFont1,
+.diyw .diyfeFont1 {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 h1,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 h1,
+.diyw .diyfeArea .diyfeFont1 h1,
+.diyw .diyfeFont1 h1 {
+  font-family: Georgia, serif;
+  font-style: normnal;
+  font-size: 48px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 h2,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 h2,
+.diyw .diyfeArea .diyfeFont1 h2,
+.diyw .diyfeFont1 h2 {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 25.6px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 p,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 p,
+.diyw .diyfeArea .diyfeFont1 p,
+.diyw .diyfeFont1 p {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 a,
+.diyw .diyfeArea .diyfeFont1 a,
+.diyw .diyfeFont1 a {
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 .mainNav1 a,
+.diyw .diyfeArea .diyfeFont1 .mainNav1 a,
+.diyw .diyfeFont1 .mainNav1 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont1 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont1 .mainNav2 a,
+.diyw .diyfeArea .diyfeFont1 .mainNav2 a,
+.diyw .diyfeFont1 .mainNav2 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2,
+.diyw .diyfeArea .diyfeArea .diyfeFont2,
+.diyw .diyfeArea .diyfeFont2,
+.diyw .diyfeFont2 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 h1,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 h1,
+.diyw .diyfeArea .diyfeFont2 h1,
+.diyw .diyfeFont2 h1 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 h2,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 h2,
+.diyw .diyfeArea .diyfeFont2 h2,
+.diyw .diyfeFont2 h2 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 p,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 p,
+.diyw .diyfeArea .diyfeFont2 p,
+.diyw .diyfeFont2 p {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 a,
+.diyw .diyfeArea .diyfeFont2 a,
+.diyw .diyfeFont2 a {
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 .mainNav1 a,
+.diyw .diyfeArea .diyfeFont2 .mainNav1 a,
+.diyw .diyfeFont2 .mainNav1 a {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont2 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont2 .mainNav2 a,
+.diyw .diyfeArea .diyfeFont2 .mainNav2 a,
+.diyw .diyfeFont2 .mainNav2 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3,
+.diyw .diyfeArea .diyfeArea .diyfeFont3,
+.diyw .diyfeArea .diyfeFont3,
+.diyw .diyfeFont3 {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 h1,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 h1,
+.diyw .diyfeArea .diyfeFont3 h1,
+.diyw .diyfeFont3 h1 {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 28px;
+  font-weight: normal;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 h2,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 h2,
+.diyw .diyfeArea .diyfeFont3 h2,
+.diyw .diyfeFont3 h2 {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 p,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 p,
+.diyw .diyfeArea .diyfeFont3 p,
+.diyw .diyfeFont3 p {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 a,
+.diyw .diyfeArea .diyfeFont3 a,
+.diyw .diyfeFont3 a {
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 .mainNav1 a,
+.diyw .diyfeArea .diyfeFont3 .mainNav1 a,
+.diyw .diyfeFont3 .mainNav1 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont3 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont3 .mainNav2 a,
+.diyw .diyfeArea .diyfeFont3 .mainNav2 a,
+.diyw .diyfeFont3 .mainNav2 a {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4,
+.diyw .diyfeArea .diyfeArea .diyfeFont4,
+.diyw .diyfeArea .diyfeFont4,
+.diyw .diyfeFont4 {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 h1,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 h1,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 h1,
+.diyw .diyfeArea .diyfeFont4 h1,
+.diyw .diyfeFont4 h1 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 h2,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 h2,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 h2,
+.diyw .diyfeArea .diyfeFont4 h2,
+.diyw .diyfeFont4 h2 {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 p,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 p,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 p,
+.diyw .diyfeArea .diyfeFont4 p,
+.diyw .diyfeFont4 p {
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 a,
+.diyw .diyfeArea .diyfeFont4 a,
+.diyw .diyfeFont4 a {
+  font-style: normal;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 .mainNav1 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 .mainNav1 a,
+.diyw .diyfeArea .diyfeFont4 .mainNav1 a,
+.diyw .diyfeFont4 .mainNav1 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeArea .diyfeFont4 .mainNav2 a,
+.diyw .diyfeArea .diyfeArea .diyfeFont4 .mainNav2 a,
+.diyw .diyfeArea .diyfeFont4 .mainNav2 a,
+.diyw .diyfeFont4 .mainNav2 a {
+  font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+}
+body.startpage .diyw .diywebFooter .webnavigation a,
+body.startpage .diyw .diywebFooter .diywebNav a {
+  color: #424242 !important;
+  font-family: Georgia, serif !important;
+  font-size: 13px !important;
+}
+.facebookTab .diyw #diyFbBoxPage {
+  margin-left: 0 !important;
+  width: 100% !important;
+  overflow: auto !important;
+}
+.facebookTab .diyw #diyFbBoxWin,
+.facebookTab .diyw #diyFbBoxPage,
+.facebookTab .diyw #diyFbBoxBody,
+.facebookTab .diyw .diyweb {
+  height: 100% !important;
+}
+.facebookTab .diyw .diywebEmotionHeader,
+.facebookTab .diyw .diywebHeader,
+.facebookTab .diyw .diywebFond,
+.facebookTab .diyw .diywebSecondary,
+.facebookTab .diyw .diywebSidebar,
+.facebookTab .diyw .diywebFooter,
+.facebookTab .diyw .diywebContent .diyfeGridGroup:before,
+.facebookTab .diyw .diywebNav {
+  display: none;
+}
+.facebookTab .diyw .diywebMain {
+  width: auto;
+  float: none;
+  padding-top: 0.1px;
+}
+.facebookTab .diyw .diywebLiveArea,
+.facebookTab .diyw .diyweb:before {
+  width: auto;
+}
+.facebookTab .diyw .diyweb {
+  height: 100%;
+  box-sizing: border-box;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.facebookTab .diyw .diywebContainer {
+  width: auto;
+  box-sizing: border-box;
+}
+.facebookTab .diyw {
+  height: 100%;
+  box-sizing: border-box;
+}
+.facebookTab .diyw #diyFbBoxBody div.sortable-matrix {
+  width: auto !important;
+}
+.diyw .diyApp .app-border {
+  border: solid 1px #bababa;
+}
+.diyw .diyApp .app-rounded {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.diyw .diyApp .app-gradient {
+  background: #bababa;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#bababa),color-stop(1,#ededed));
+  background: -ms-linear-gradient(bottom,#bababa,#ededed);
+  background: -moz-linear-gradient(center bottom,#bababa 0%,#ededed 100%);
+  background: -o-linear-gradient(#ededed,#bababa);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bababa', GradientType=0);
+}
+.diyw .diyApp [class^="icon-"],
+.diyw .diyApp [class*=" icon-"] {
+  color: #757575 !important;
+}
+.diyw .diyApp [class^="icon-"].active,
+.diyw .diyApp [class*=" icon-"].active {
+  color: #a4ab95 !important;
+}
+.diyw .diyApp .app-navbar-default {
+  background: #bababa;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#bababa),color-stop(1,#ededed));
+  background: -ms-linear-gradient(bottom,#bababa,#ededed);
+  background: -moz-linear-gradient(center bottom,#bababa 0%,#ededed 100%);
+  background: -o-linear-gradient(#ededed,#bababa);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bababa', GradientType=0);
+  border: solid 1px #bababa;
+}
+.diyw .diyApp .app-navbar-highlight {
+  background: #a4ab95;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#a4ab95),color-stop(1,#d5d8ce));
+  background: -ms-linear-gradient(bottom,#a4ab95,#d5d8ce);
+  background: -moz-linear-gradient(center bottom,#a4ab95 0%,#d5d8ce 100%);
+  background: -o-linear-gradient(#d5d8ce,#a4ab95);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d5d8ce', endColorstr='#a4ab95', GradientType=0);
+  border: solid 1px #a4ab95;
+}
+.diyw .diyApp .app-navbar select,
+.diyw .diyApp .app-navbar input,
+.diyw .diyApp .app-navbar button {
+  background: #fff;
+  color: #757575;
+  border: solid 1px #757575;
+}
+.diyw .diyApp .app-container,
+.diyw .diyApp .app-container-background,
+.diyw .diyApp .app-container-background-highlight,
+.diyw .diyApp .app-container-background-light {
+  padding: 10px;
+  margin: 10px 0;
+}
+.diyw .diyApp .app-container-background {
+  background: #bababa;
+}
+.diyw .diyApp .app-container-background-highlight {
+  background: #a4ab95;
+}
+.diyw .diyApp .app-container-background-light {
+  background: #ededed;
+}
+.diyw .diyApp .app-button-background {
+  border: solid 1px #757575;
+  color: #ffffff;
+  background: #757575;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#757575),color-stop(1,#a8a8a8));
+  background: -ms-linear-gradient(bottom,#757575,#a8a8a8);
+  background: -moz-linear-gradient(center bottom,#757575 0%,#a8a8a8 100%);
+  background: -o-linear-gradient(#a8a8a8,#757575);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a8a8a8', endColorstr='#757575', GradientType=0);
+}
+.diyw .diyApp .app-button-disabled {
+  cursor: none !important;
+}
+.diyw .diyApp .app-button-disabled.app-button-background {
+  color: #bababa;
+}
+.diyw .diyApp .app-button-disabled.app-button-primary {
+  color: #5f6551;
+}
+.diyw .diyApp .app-button-primary {
+  border: solid 1px #727a60;
+  color: #ffffff;
+  background: #727a60;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#727a60),color-stop(1,#a4ab95));
+  background: -ms-linear-gradient(bottom,#727a60,#a4ab95);
+  background: -moz-linear-gradient(center bottom,#727a60 0%,#a4ab95 100%);
+  background: -o-linear-gradient(#a4ab95,#727a60);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a4ab95', endColorstr='#727a60', GradientType=0);
+}
+.diyw .diyApp .app-navbar,
+.diyw .diyApp .app-header {
+  overflow: hidden;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.diyw .diyApp .app-navbar-group,
+.diyw .diyApp .app-header-group,
+.diyw .diyApp .app-navbar-left {
+  float: left;
+}
+.diyw .diyApp .app-navbar-right,
+.diyw .diyApp .app-header-right {
+  float: right;
+}
+.diyw .diyApp .app-navbar-group {
+  margin-right: 10px;
+  overflow: hidden;
+}
+.diyw .diyApp .app-navbar-group.app-navbar-right {
+  margin-right: 0;
+}
+.diyw .diyApp .app-header {
+  border-bottom: solid 1px;
+}
+.diyw .diyApp .app-button-group {
+  display: table-row;
+}
+.diyw .diyApp .app-button-group > * {
+  display: table-cell;
+}
+.diyw .diyApp .app-button {
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none !important;
+  text-align: center;
+}
+.diyw .diyApp .app-button-group label,
+.diyw .diyApp .app-button {
+  margin-bottom: 0;
+  padding: 6px 12px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.diyw .diyApp .app-navbar select,
+.diyw .diyApp .app-navbar input,
+.diyw .diyApp .app-navbar button {
+  padding: 3px;
+}
+.diyw .diyApp .app-navbar select option {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.diyw .diyweb:before {
+  background-color: #ffffff;
+}
+.diyw .diywebContent .diyfeGridGroup:before,
+.diyw .diywebHelperNav {
+  background-color: #ffffff;
+}
+.diyw .mainNav1 a {
+  text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+  position: relative;
+  overflow: hidden;
+}
+.diyw .mainNav1 a.current {
+  color: #171814 !important;
+}
+.diyw .mainNav1 a.current,
+.diyw .mainNav1 a.parent {
+  color: #a4ab95 !important;
+}
+.diyw .mainNav2 a.current,
+.diyw .mainNav3 a.current,
+.diyw .mainNav2 a.parent,
+.diyw .mainNav3 a.parent {
+  color: #a4ab95 !important;
+}
+.diyw .mainNav1 a {
+  text-shadow: none;
+}
+.diyw .mainNav1 > li a {
+  border-right: 1px solid #535353;
+}
+.diyw #diyfeMobileNav .mainNav1 > li a {
+  border-right: none;
+}
+@media only screen and (min-width: 767px) {
+  .diyw .mainNav1 a:hover {
+    color: #a4ab95 !important;
+    text-shadow: none;
+    text-decoration: underline !important;
+  }
+}
+@media only screen and (min-width: 0) and (max-width: 767px) {
+  .diyw .mainNav1 a.level_1,
+  .diyw .mainNav1 a.level_1.current {
+    color: #10110f !important;
+  }
+  .diyw .diyweb .diywebMainGutter {
+    padding: 0 20px;
+  }
+}
+.diyw .diywebNavMain .diywebGutter {
+  border-bottom: 1px solid #dddddd;
+}
+.diyw #diywebAppContainer1st {
+  font-style: normal;
+  font-weight: normal;
+  font-family: Georgia, serif;
+}
+@media only screen and (max-width: 767px) {
+  .diyw #diywebAppContainer1st {
+    background-color: #a4ab95;
+    color: #ffffff;
+  }
+  .diyw #diywebAppContainer1st .estore_productCount span {
+    color: #a4ab95;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .diyw #diywebAppContainer1st {
+    color: #8c8c8c;
+  }
+  .diyw #diywebAppContainer1st .estore_productCount span {
+    color: #ffffff;
+  }
+}
+
+.body {
+background-image: url('http://www.stylecrownltd.co.uk/s/img/background.gif?1468317697');
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: center top;
+  background-size: auto;
+}
